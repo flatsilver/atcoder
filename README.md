@@ -1,3 +1,3 @@
-# Atcoder
+# AtCoder
 
-Atcoderのスクリプト管理用リポジトリです。
+AtCoderのスクリプト管理用リポジトリです。
